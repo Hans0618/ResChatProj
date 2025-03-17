@@ -5,7 +5,7 @@ const Restaurant = require('./models/Restaurant'); // Ensure this path is correc
 async function fetchRestaurants() {
     const latitude = 39.9899158;
     const longitude = -83.0062792;
-    const API_KEY = 'AIzaSyAuAbt7ajYsKtC6V3zQCHCoLQTkXrBgUjM';
+    const API_KEY = 'Your API Key';
     const url = `https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=${latitude},${longitude}&radius=5000&type=restaurant&key=${API_KEY}`;
     
     try {
