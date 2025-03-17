@@ -1,0 +1,3983 @@
+[
+  {
+    "type": "node",
+    "id": 357532572,
+    "lat": 40.0073223,
+    "lon": -83.052998,
+    "tags": {
+      "amenity": "restaurant",
+      "ele": "258",
+      "gnis:feature_id": "2125139",
+      "name": "Hudson 29 Kitchen + Drink",
+      "opening_hours": "Mo-Th 11:30-22:00; Fr 11:30-23:00; Sa 11:00-23:00; Su 11:00-21:00"
+    }
+  },
+  {
+    "type": "node",
+    "id": 503771088,
+    "lat": 39.994225,
+    "lon": -83.014052,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:country": "US",
+      "addr:county": "Franklin",
+      "addr:housenumber": "1578",
+      "addr:postcode": "43210",
+      "addr:state": "OH",
+      "addr:street": "Neil Avenue",
+      "amenity": "restaurant",
+      "cuisine": "sandwich",
+      "indoor_seating": "yes",
+      "name": "MarketPlace",
+      "outdoor_seating": "no",
+      "source": "website",
+      "website": "https://dining.osu.edu/dininglocations/marketplace/",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 503782445,
+    "lat": 39.992762,
+    "lon": -83.006808,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Yau's Chinese Bistro"
+    }
+  },
+  {
+    "type": "node",
+    "id": 503833537,
+    "lat": 39.9911965,
+    "lon": -83.0401797,
+    "tags": {
+      "amenity": "restaurant",
+      "brand": "Donatos Pizza",
+      "brand:wikidata": "Q1240741",
+      "cuisine": "pizza",
+      "name": "Donatos Pizza",
+      "opening_hours": "Su-Th 11:00-24:00, Fr,Sa 11:00-01:00",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 504746645,
+    "lat": 39.993922,
+    "lon": -83.0066499,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "mexican",
+      "name": "Cazuela's Gateway"
+    }
+  },
+  {
+    "type": "node",
+    "id": 506392220,
+    "lat": 40.0056801,
+    "lon": -83.0089997,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "2124",
+      "addr:postcode": "43201",
+      "addr:state": "OH",
+      "addr:street": "North High Street",
+      "amenity": "restaurant",
+      "brand": "Noodles & Company",
+      "brand:wikidata": "Q7049673",
+      "cuisine": "pasta",
+      "name": "Noodles & Company",
+      "opening_hours": "11:00-22:00",
+      "phone": "+1 614-453-1095",
+      "website": "https://order.noodles.com/location/noodles-lane-high/menu"
+    }
+  },
+  {
+    "type": "node",
+    "id": 506394454,
+    "lat": 40.0029102,
+    "lon": -83.0084676,
+    "tags": {
+      "amenity": "restaurant",
+      "check_date": "2023-12-24",
+      "cuisine": "chinese",
+      "name": "Moy's Chinese Restaurant"
+    }
+  },
+  {
+    "type": "node",
+    "id": 506852580,
+    "lat": 39.9886591,
+    "lon": -83.0321056,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "968",
+      "addr:postcode": "43212",
+      "addr:state": "OH",
+      "addr:street": "West 5th Avenue",
+      "amenity": "restaurant",
+      "brand": "Buffalo Wild Wings",
+      "brand:wikidata": "Q509255",
+      "cuisine": "wings",
+      "name": "Buffalo Wild Wings",
+      "opening_hours": "Mo-Su 11:00-23:00; Th-Sa 11:00-24:00",
+      "short_name": "BW3"
+    }
+  },
+  {
+    "type": "node",
+    "id": 506852583,
+    "lat": 39.9875017,
+    "lon": -83.0283977,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Coco's Grill",
+      "not:brand:wikidata": "Q5139723"
+    }
+  },
+  {
+    "type": "node",
+    "id": 508029111,
+    "lat": 40.0220327,
+    "lon": -83.0136037,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Aladdin's Eatery",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 508029112,
+    "lat": 40.0145745,
+    "lon": -83.011553,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "2563",
+      "addr:postcode": "43202",
+      "addr:state": "OH",
+      "addr:street": "North High Street",
+      "air_conditioning": "yes",
+      "amenity": "restaurant",
+      "cuisine": "breakfast",
+      "delivery": "yes",
+      "email": "jandbdiner@gmail.com",
+      "name": "Jack & Benny's",
+      "opening_hours": "Mo-Fr 07:00-15:00; Sa-Su 08:00-15:00",
+      "outdoor_seating": "no",
+      "phone": "(614) 263-0242",
+      "website": "https://www.jackandbennys.com/",
+      "website:menu": "https://www.jackandbennys.com/order-online"
+    }
+  },
+  {
+    "type": "node",
+    "id": 570509070,
+    "lat": 39.9647643,
+    "lon": -83.0181169,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Confluence Park Restaurant",
+      "source": "local_knowledge; Yahoo"
+    }
+  },
+  {
+    "type": "node",
+    "id": 962877716,
+    "lat": 39.9917763,
+    "lon": -83.0401355,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "asian",
+      "name": "Nong's Hunan Express"
+    }
+  },
+  {
+    "type": "node",
+    "id": 962877724,
+    "lat": 39.9889219,
+    "lon": -83.0404559,
+    "tags": {
+      "amenity": "restaurant",
+      "brand": "mark pi's",
+      "cuisine": "chinese",
+      "name": "Mark Pi's"
+    }
+  },
+  {
+    "type": "node",
+    "id": 962881986,
+    "lat": 39.9878707,
+    "lon": -83.0442384,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "indian",
+      "name": "AAB India",
+      "opening_hours": "Mo-Sa 17:00-22:00,11:00-14:30; Su 15:00-21:00"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1722445402,
+    "lat": 39.9714519,
+    "lon": -83.0026815,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "445",
+      "addr:postcode": "43215",
+      "addr:state": "OH",
+      "addr:street": "North High Street",
+      "amenity": "restaurant",
+      "cuisine": "italian",
+      "name": "Martini Modern Italian",
+      "opening_hours": "Mo-Th 16:00-22:00; Fr,Sa 16:00-23:00; Su 16:00-21:00",
+      "phone": "+1-614-224-8259",
+      "website": "https://martinimodernitalian.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1723071808,
+    "lat": 39.9744522,
+    "lon": -83.0362536,
+    "tags": {
+      "addr:housenumber": "1223",
+      "addr:postcode": "43212",
+      "addr:street": "Goodale Boulevard",
+      "amenity": "restaurant",
+      "name": "Red Hook Grill",
+      "phone": "+1-614-223-1288",
+      "website": "http://www.redhookgrill.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1723085581,
+    "lat": 39.9850763,
+    "lon": -83.0516875,
+    "tags": {
+      "addr:housenumber": "1715",
+      "addr:postcode": "43212",
+      "addr:street": "West Third Avenue",
+      "amenity": "restaurant",
+      "comment": "Added for OSU G607 SP2012",
+      "cuisine": "american",
+      "name": "DK Diner",
+      "phone": "+1-614-488-5160",
+      "source": "knowledge",
+      "specialty": "Doughnuts",
+      "website": "http://www.thedkdiner.com/index.html"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1723292159,
+    "lat": 40.0115312,
+    "lon": -83.0100998,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "asian",
+      "name": "Taste of Orient",
+      "source": "Knowledge"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1727993150,
+    "lat": 39.9973031,
+    "lon": -83.0091328,
+    "tags": {
+      "addr:housename": "The Ohio Union",
+      "addr:housenumber": "1739",
+      "addr:postcode": "43201",
+      "addr:street": "North High Street",
+      "amenity": "restaurant",
+      "cuisine": "burger",
+      "name": "Sloopy's Diner",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "phone": "+16142476723",
+      "source": "Knowledge",
+      "website": "https://ohiounion.osu.edu/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1728369974,
+    "lat": 40.0165338,
+    "lon": -83.0120581,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "2657",
+      "addr:postcode": "43202",
+      "addr:state": "OH",
+      "addr:street": "North High Street",
+      "amenity": "restaurant",
+      "cuisine": "pizza",
+      "name": "Hound Dog's Pizza",
+      "opening_hours": "Mo-Tu 09:00-23:00; We-Th 10:00-23:00; Fr-Sa 10:00-00:00; Su 10:00-23:00",
+      "phone": "+1-614-261-4686",
+      "source": "local knowledge",
+      "website": "https://hounddogspizza.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1728410694,
+    "lat": 39.9966994,
+    "lon": -83.0138192,
+    "tags": {
+      "addr:housename": "Kennedy Commons",
+      "addr:housenumber": "251",
+      "addr:postcode": "43210",
+      "addr:street": "West Twelfth Avenue",
+      "amenity": "restaurant",
+      "name": "12th Avenue Bread Company",
+      "opening_hours": "Mo-Fr 08:00-19:00; Sa,Su 12:00-19:00"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1728420148,
+    "lat": 39.9968856,
+    "lon": -83.0068956,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "10",
+      "addr:postcode": "43201",
+      "addr:state": "OH",
+      "addr:street": "East Twelfth Avenue",
+      "amenity": "restaurant",
+      "cuisine": "chinese",
+      "name": "兰州拉面 Chinese Beef Noodle Soup"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1729088979,
+    "lat": 40.0042751,
+    "lon": -83.0087062,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "2060",
+      "addr:postcode": "43201",
+      "addr:state": "OH",
+      "addr:street": "North High Street",
+      "amenity": "restaurant",
+      "cuisine": "chinese",
+      "name": "Joy's Chinese Village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1729287907,
+    "lat": 40.0114117,
+    "lon": -83.0100614,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:country": "US",
+      "addr:county": "Franklin",
+      "addr:housename": "Hurry and Curry",
+      "addr:housenumber": "2412",
+      "addr:postcode": "43202",
+      "addr:state": "OH",
+      "addr:street": "North High Street",
+      "amenity": "restaurant",
+      "cuisine": "indian",
+      "name": "Curry and Hurry",
+      "opening_hours": "Mo-Sa 11:00-23:00; Su 12:30-22:00",
+      "source": "Knowledge",
+      "website": "www.curryandhurryindiancarryoutrestaurant.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1730675955,
+    "lat": 39.984964,
+    "lon": -83.0440025,
+    "tags": {
+      "addr:housenumber": "1433",
+      "addr:postcode": "43212",
+      "addr:street": "West Third Avenue",
+      "amenity": "restaurant",
+      "cuisine": "american",
+      "name": "Third & Hollywood",
+      "opening_hours": "Mo-Su 16:30-18:00+, Mo-Sa 11:30-16:00, Sa,Su 10:30-16:00",
+      "source": "survey"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1731163377,
+    "lat": 39.9892758,
+    "lon": -83.052949,
+    "tags": {
+      "addr:housenumber": "1736",
+      "addr:postcode": "43212",
+      "addr:street": "West 5th Avenue",
+      "amenity": "restaurant",
+      "bar": "yes",
+      "name": "Red Door Tavern",
+      "source": "survey",
+      "wifi": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1731165909,
+    "lat": 39.9893498,
+    "lon": -83.0543143,
+    "tags": {
+      "addr:housenumber": "1788",
+      "addr:postcode": "43212",
+      "addr:street": "West 5th Avenue",
+      "amenity": "restaurant",
+      "bar": "yes",
+      "name": "Jimmy V's Grill & Pub",
+      "source": "survey",
+      "website": "http://www.jimmyvspub.com",
+      "wifi": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1731170935,
+    "lat": 39.9889183,
+    "lon": -83.0533497,
+    "tags": {
+      "addr:housenumber": "1749",
+      "addr:postcode": "43212",
+      "addr:street": "West 5th Avenue",
+      "amenity": "restaurant",
+      "cuisine": "pizza",
+      "name": "Rotolo's Pizza",
+      "source": "survey",
+      "website": "https://www.rotolospizza.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1848732954,
+    "lat": 39.9844534,
+    "lon": -83.0450617,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "The Avenue Steak Tavern"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2323769991,
+    "lat": 39.9868583,
+    "lon": -83.0448493,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "1423",
+      "addr:postcode": "43212",
+      "addr:street": "Grandview Avenue",
+      "amenity": "restaurant",
+      "cuisine": "middle_eastern",
+      "name": "Aladdin's Eatery"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2323769992,
+    "lat": 39.9871727,
+    "lon": -83.0447259,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "1439",
+      "addr:postcode": "43212",
+      "addr:street": "Grandview Avenue",
+      "amenity": "restaurant",
+      "brand": "Great Clips",
+      "cuisine": "middle_eastern",
+      "name": "Great Clips"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2323769993,
+    "lat": 39.9873413,
+    "lon": -83.0447045,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "1447",
+      "addr:postcode": "43212",
+      "addr:street": "Grandview Avenue",
+      "amenity": "restaurant",
+      "cuisine": "italian",
+      "name": "Trattoria Roma"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2323769994,
+    "lat": 39.9874687,
+    "lon": -83.0447125,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "1453",
+      "addr:postcode": "43212",
+      "addr:street": "Grandview Avenue",
+      "amenity": "restaurant",
+      "cuisine": "mediterranean;lebanese",
+      "name": "Mazah Mediterranean Eatery"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2323769995,
+    "lat": 39.9874954,
+    "lon": -83.0450666,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "1453",
+      "addr:postcode": "43212",
+      "addr:street": "Ida Avenue",
+      "amenity": "restaurant",
+      "name": "Halwani Cuisine"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2361170343,
+    "lat": 39.9889706,
+    "lon": -83.0441018,
+    "tags": {
+      "addr:housename": "Winking Lizard Tavern",
+      "addr:housenumber": "1416",
+      "addr:postcode": "43212",
+      "addr:street": "West Fifth Avenue",
+      "amenity": "restaurant",
+      "cuisine": "tacos",
+      "name": "Barrio",
+      "website": "https://barrio-tacos.com/locations/grandview-heights/",
+      "wifi": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2390828829,
+    "lat": 39.9781827,
+    "lon": -83.0106562,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "811",
+      "addr:postcode": "43215",
+      "addr:street": "Highland Street",
+      "amenity": "restaurant",
+      "cuisine": "italian",
+      "email": "trishandjohn@basi-italia.com",
+      "name": "Basi Italia",
+      "opening_hours": "Tu-Sa 15:00-22:00",
+      "outdoor_seating": "yes",
+      "phone": "+1-614-294-7383",
+      "website": "https://www.basi-italia.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2617616192,
+    "lat": 39.9516336,
+    "lon": -82.9946438,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "525",
+      "addr:postcode": "43206",
+      "addr:state": "OH",
+      "addr:street": "South Fourth Street",
+      "amenity": "restaurant",
+      "contact:facebook": "https://www.facebook.com/alpine614/",
+      "cuisine": "german",
+      "name": "Alpine Restaurant & Bar",
+      "opening_hours": "Mo-Th 11:00-14:00,17:00-22:00; Fr 11:00-14:00,17:00-23:00; Sa 10:00-15:00,17:00-23:00; Su 10:00-15:00",
+      "phone": "+1-614-670-7195"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2698888316,
+    "lat": 40.0020616,
+    "lon": -83.0083076,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "chinese",
+      "name": "Red Chili",
+      "opening_hours": "Mo-Su 08:00-20:00"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2819189801,
+    "lat": 39.9857338,
+    "lon": -83.0448906,
+    "tags": {
+      "addr:city": "columbus",
+      "addr:housenumber": "1369",
+      "addr:postcode": "43212",
+      "addr:street": "Grandview Avenue",
+      "amenity": "restaurant",
+      "cuisine": "italian",
+      "name": "Figlio Pizza",
+      "phone": "+1-614-481-8850",
+      "smoking": "outside",
+      "website": "http://www.figliopizza.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2909895675,
+    "lat": 40.0230401,
+    "lon": -83.0138974,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Lavash Cafe"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2933290748,
+    "lat": 39.9574381,
+    "lon": -82.9897047,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "280",
+      "addr:postcode": "43215",
+      "addr:street": "South Grant Avenue",
+      "amenity": "restaurant",
+      "brand": "Donatos Pizza",
+      "brand:wikidata": "Q1240741",
+      "cuisine": "pizza",
+      "name": "Donatos Pizza",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2958604330,
+    "lat": 40.0065254,
+    "lon": -83.0094909,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "2167",
+      "addr:postcode": "43201",
+      "addr:state": "OH",
+      "addr:street": "North High Street",
+      "amenity": "restaurant",
+      "cuisine": "pizza",
+      "name": "Cottage Inn Pizza",
+      "phone": "+1 614-564-9292",
+      "website": "https://online.cottageinn.com/r/2167-nhigh.html"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3321996568,
+    "lat": 40.0067077,
+    "lon": -83.0542774,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "american",
+      "name": "Rusty Bucket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3479889025,
+    "lat": 40.0070355,
+    "lon": -83.0563524,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "pizza",
+      "name": "Carsonie's Stromboli and Pizza",
+      "opening_hours": "Mo 11:00-21:00; Tu-Th,Sa 11:00-22:00; Fr 11:00-23:00; Su 12:00-21:00"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3643093114,
+    "lat": 40.0336452,
+    "lon": -83.0004566,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "3240",
+      "addr:postcode": "43214",
+      "addr:state": "OH",
+      "addr:street": "Indianola Avenue",
+      "amenity": "restaurant",
+      "capacity": "48",
+      "cuisine": "regional",
+      "delivery": "no",
+      "name": "Wildflower Cafe",
+      "smoking": "no",
+      "takeaway": "yes",
+      "website": "https://wildflower-cafe.com/",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3655502338,
+    "lat": 39.9599414,
+    "lon": -83.0006997,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "11",
+      "addr:postcode": "43215",
+      "addr:state": "OH",
+      "addr:street": "West State Street",
+      "amenity": "restaurant",
+      "cuisine": "chinese",
+      "name": "Ho Toy",
+      "phone": "+1-614-224-6848"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3791844489,
+    "lat": 39.9815648,
+    "lon": -83.0046381,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "915",
+      "addr:postcode": "43201",
+      "addr:state": "OH",
+      "addr:street": "North High Street",
+      "amenity": "restaurant",
+      "check_date:opening_hours": "2022-05-06",
+      "contact:instagram": "northstarcafe",
+      "name": "Northstar Cafe Short North",
+      "opening_hours": "Mo-Su 09:00-22:00",
+      "outdoor_seating": "yes",
+      "phone": "+1-614-298-9999",
+      "website": "https://www.thenorthstarcafe.com/location/northstar-cafe-short-north/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3807749332,
+    "lat": 39.9941622,
+    "lon": -83.0141431,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:country": "US",
+      "addr:county": "Franklin",
+      "addr:housenumber": "1578",
+      "addr:postcode": "43210",
+      "addr:state": "OH",
+      "addr:street": "Neil Avenue",
+      "amenity": "restaurant",
+      "indoor_seating": "yes",
+      "name": "StreetSweets",
+      "outdoor_seating": "no",
+      "shop": "coffee",
+      "source": "website",
+      "website": "https://dining.osu.edu/dininglocations/marketplace/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3988263157,
+    "lat": 39.9985664,
+    "lon": -83.0075778,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "1778",
+      "addr:postcode": "43201",
+      "addr:state": "OH",
+      "addr:street": "North High Street",
+      "amenity": "restaurant",
+      "cuisine": "asian",
+      "name": "Bibibop"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3989227761,
+    "lat": 39.9976636,
+    "lon": -83.0069639,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "19th",
+      "addr:postcode": "43201",
+      "addr:state": "OH",
+      "addr:street": "East Thirteenth Avenue",
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "name": "Ethyl& Tank",
+      "opening_hours": "11:00-24:00"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3996132366,
+    "lat": 40.0157634,
+    "lon": -83.01153,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:country": "US",
+      "addr:county": "Franklin",
+      "addr:housenumber": "2620",
+      "addr:postcode": "43202",
+      "addr:state": "OH",
+      "addr:street": "North High Street",
+      "amenity": "restaurant",
+      "cuisine": "chinese",
+      "name": "NE Chinese",
+      "website": "https://www.nechinese.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4434781657,
+    "lat": 39.9687856,
+    "lon": -82.9981319,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "129",
+      "addr:state": "OH",
+      "addr:street": "East Nationwide Boulevard",
+      "amenity": "restaurant",
+      "name": "Flatiron Tavern"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4434781660,
+    "lat": 39.9688012,
+    "lon": -82.9994567,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:country": "US",
+      "addr:housenumber": "89",
+      "addr:postcode": "43215",
+      "addr:state": "OH",
+      "addr:street": "East Nationwide Boulevard",
+      "amenity": "restaurant",
+      "cuisine": "steak_house;seafood",
+      "name": "Jeff Ruby's Steakhouse - Columbus",
+      "opening_hours": "Mo-Th 17:00-22:00; Fr-Sa 17:00-23:00",
+      "phone": "+1-614-686-7800",
+      "website": "https://www.jeffruby.com/columbus"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4515637490,
+    "lat": 39.9874482,
+    "lon": -83.005776,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "1227",
+      "addr:postcode": "43201",
+      "addr:state": "OH",
+      "addr:street": "North High Street",
+      "amenity": "restaurant",
+      "brand": "Condado Tacos",
+      "brand:wikidata": "Q118640152",
+      "contact:facebook": "condadotacosshortnorth",
+      "contact:instagram": "condadotacos",
+      "contact:website": "https://locations.condadotacos.com/oh/1227-n-high-st",
+      "cuisine": "mexican",
+      "name": "Condado Tacos",
+      "opening_hours": "Su-Th 11:00-22:00; Fr,Sa 11:00-23:00",
+      "phone": "+1-614-928-3909"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4515645889,
+    "lat": 39.9656697,
+    "lon": -83.0017892,
+    "tags": {
+      "addr:housenumber": "161",
+      "addr:street": "North High Street",
+      "amenity": "restaurant",
+      "name": "Elevator Brewery and Draught Haus",
+      "opening_hours": "Mo-Th 11:00-24:00; Fr 11:00-01:00; Sa 10:00-22:00"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4527170489,
+    "lat": 40.0073146,
+    "lon": -83.0534538,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Fukuryu Ramen",
+      "name:en": "Fukuryu Ramen",
+      "opening_hours": "Mo-Su 11:00-14:30, Mo-Th 17:00-21:00, Fr,Sa 17:00-21:30"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4531155590,
+    "lat": 39.9546459,
+    "lon": -83.0061463,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "2",
+      "addr:postcode": "43215",
+      "addr:state": "OH",
+      "addr:street": "Miranova Place",
+      "addr:unit": "100",
+      "amenity": "restaurant",
+      "name": "M at Miranova",
+      "opening_hours": "Mo-Th 17:00-22:00; Fr-Sa 17:00-23:00",
+      "phone": "+1-614-629-0000",
+      "website": "https://www.matmiranova.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4531180889,
+    "lat": 39.9868147,
+    "lon": -83.0253891,
+    "tags": {
+      "addr:housenumber": "1299",
+      "addr:street": "Olentangy River Road",
+      "amenity": "restaurant",
+      "name": "Cap City Fine Diner & Bar"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4561292989,
+    "lat": 40.0301433,
+    "lon": -83.015662,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "3335",
+      "addr:postcode": "43202",
+      "addr:state": "OH",
+      "addr:street": "North High Street",
+      "amenity": "restaurant",
+      "cuisine": "american;breakfast",
+      "name": "Dough Mama",
+      "name:en": "Dough Mama",
+      "website": "https://www.dough-mama.com/menu"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4561299989,
+    "lat": 39.9751797,
+    "lon": -83.0029502,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "624",
+      "addr:postcode": "43215",
+      "addr:state": "OH",
+      "addr:street": "North High Street",
+      "amenity": "restaurant",
+      "bar": "yes",
+      "contact:instagram": "theguildhouse",
+      "name": "The Guild House",
+      "opening_hours": "Tu-Th 16:00-21:00; Fr,Sa 16:00-22:00; Su 16:00-20:00",
+      "phone": "+1-614-280-9780",
+      "website": "https://theguildhousecolumbus.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4561344389,
+    "lat": 40.0055753,
+    "lon": -83.0089707,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "2118",
+      "addr:postcode": "43201",
+      "addr:state": "OH",
+      "addr:street": "North High Street",
+      "amenity": "restaurant",
+      "name": "Diaspora",
+      "name:en": "Diaspora",
+      "opening_hours": "Mo-Fr 11:30-21:00; Sa 13:00-21:00; Su 13:00-19:30",
+      "phone": "+1 614-458-1141",
+      "website": "https://eatatdiaspora.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4604201290,
+    "lat": 39.9885749,
+    "lon": -83.0441781,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "fried_chicken;american",
+      "name": "Hot Chicken Takeover"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4630991600,
+    "lat": 39.963065,
+    "lon": -82.9765604,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "892",
+      "addr:postcode": "43205",
+      "addr:state": "OH",
+      "addr:street": "Oak Street",
+      "amenity": "restaurant",
+      "contact:facebook": "https://www.facebook.com/yellowbrickpizza",
+      "cuisine": "pizza",
+      "email": "yellowbrickpizza@gmail.com",
+      "name": "Yellow Brick Pizza",
+      "opening_hours": "Mo-Sa 11:00-24:00; Su 12:00-24:00",
+      "phone": "+1-614-725-5482",
+      "website": "https://yellowbrickpizza.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4648697591,
+    "lat": 39.9636819,
+    "lon": -82.9987467,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "73",
+      "addr:postcode": "43215",
+      "addr:state": "OH",
+      "addr:street": "East Gay Street",
+      "amenity": "restaurant",
+      "name": "Tip Top Kitchen & Cocktails",
+      "opening_hours": "Mo-Su 11:00-02:00",
+      "outdoor_seating": "yes",
+      "phone": "+1-614-221-8300",
+      "website": "http://www.tiptopcolumbus.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4671954336,
+    "lat": 39.9890527,
+    "lon": -83.053904,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "1773",
+      "addr:postcode": "43212",
+      "addr:state": "OH",
+      "addr:street": "West 5th Avenue",
+      "amenity": "restaurant",
+      "cuisine": "chinese",
+      "name": "Peking Dynasty",
+      "phone": "+1-614-488-8128",
+      "website": "http://pekingdynasty.net"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4757347525,
+    "lat": 39.9492052,
+    "lon": -82.9908563,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "262",
+      "addr:postcode": "43206",
+      "addr:state": "OH",
+      "addr:street": "Sycamore Street",
+      "amenity": "restaurant",
+      "name": "The Sycamore",
+      "opening_hours": "Mo 16:00-22:00; Tu-Th 16:00-23:00; Fr 16:00-12:00; Sa 12:00-24:00",
+      "phone": "+1-614-754-1460",
+      "website": "http://thesycamoregv.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4762923521,
+    "lat": 39.9887051,
+    "lon": -83.0466289,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "1505",
+      "addr:postcode": "43212",
+      "addr:state": "OH",
+      "addr:street": "West Fifth Avenue",
+      "amenity": "restaurant",
+      "capacity": "100",
+      "cuisine": "burger",
+      "name": "Press Pub On 5th - Grandview",
+      "opening_hours": "11:30-24:00",
+      "outdoor_seating": "yes",
+      "smoking": "no",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4818700831,
+    "lat": 39.9506165,
+    "lon": -82.9937675,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "169",
+      "addr:postcode": "43206",
+      "addr:state": "OH",
+      "addr:street": "Beck Street",
+      "amenity": "restaurant",
+      "name": "Lindey's",
+      "opening_hours": "Su-Th 11:00-22:00; Fr,Sa 11:00-23:00",
+      "phone": "+1-614-228-4343",
+      "website": "https://www.lindeys.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4874993646,
+    "lat": 39.9672867,
+    "lon": -82.9974335,
+    "tags": {
+      "amenity": "restaurant",
+      "craft": "brewery",
+      "name": "Wolf's Ridge Brewing",
+      "phone": "+1-614-429-3936",
+      "website": "https://www.wolfsridgebrewing.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4882290834,
+    "lat": 40.0075303,
+    "lon": -83.0565972,
+    "tags": {
+      "addr:city": "Upper Arlington",
+      "addr:housenumber": "1750",
+      "addr:postcode": "43221",
+      "addr:state": "OH",
+      "addr:street": "West Lane Avenue",
+      "addr:unit": "100",
+      "amenity": "restaurant",
+      "name": "The Wine Bistro",
+      "opening_hours": "Mo-Th 11:00-22:00, Fr-Sa 11:00-23:00, Su 12:00-20:00",
+      "outdoor_seating": "yes",
+      "phone": "+1-614-485-1750",
+      "website": "https://www.winebistrocolumbus.com/Menu-Locations/Upper-Arlington"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4896326510,
+    "lat": 39.968512,
+    "lon": -83.0077806,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Nada"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4896326512,
+    "lat": 39.9680259,
+    "lon": -83.0087141,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Sunny Street Cafe"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5122674384,
+    "lat": 40.0041101,
+    "lon": -83.0132444,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "160",
+      "addr:postcode": "43210",
+      "addr:state": "OH",
+      "addr:street": "West Woodruff Avenue",
+      "amenity": "restaurant",
+      "delivery": "no",
+      "name": "Traditions at Scott",
+      "opening_hours": "Mo-Th 07:00-15:00,16:00-20:00; Sa-Su 09:00-15:00,16:00-20:00",
+      "outdoor_seating": "yes",
+      "website": "https://dining.osu.edu/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5288760676,
+    "lat": 40.0065103,
+    "lon": -83.0539388,
+    "tags": {
+      "amenity": "restaurant",
+      "brand": "The Original Pancake House",
+      "brand:wikidata": "Q7755384",
+      "cuisine": "breakfast;pancake",
+      "name": "The Original Pancake House"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5335703421,
+    "lat": 39.9636651,
+    "lon": -82.9988737,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "67",
+      "addr:postcode": "43215",
+      "addr:state": "OH",
+      "addr:street": "East Gay Street",
+      "amenity": "restaurant",
+      "contact:facebook": "https://www.facebook.com/DueAmiciColumbus/",
+      "contact:instagram": "https://www.instagram.com/due_amici/",
+      "cuisine": "italian",
+      "name": "Due Amici",
+      "opening_hours": "Mo-Th 11:00-22:00; Fr,Sa 11:00-23:00; Su 11:00-21:00",
+      "outdoor_seating": "yes",
+      "phone": "+1-614-224-9373",
+      "website": "https://due-amici.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5350010265,
+    "lat": 39.9978484,
+    "lon": -83.0088258,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Woody's Tavern",
+      "opening_hours": "Mo-Su 11:00-22:00"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5409623666,
+    "lat": 39.9519957,
+    "lon": -82.9836014,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "567",
+      "addr:postcode": "43215",
+      "addr:state": "OH",
+      "addr:street": "East Livingston Avenue",
+      "amenity": "restaurant",
+      "internet_access": "wlan",
+      "name": "Scramblers",
+      "opening_hours": "Mo-Su 06:30-15:00",
+      "phone": "+1-614-429-3557",
+      "source": "mapillary",
+      "website": "https://scramblersrestaurants.com/locations/2008-columbus-oh/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5571057654,
+    "lat": 39.994235,
+    "lon": -83.0071455,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "First Watch"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5571057659,
+    "lat": 39.9950997,
+    "lon": -83.006857,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Mark Pi's Asian Diner"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5619998060,
+    "lat": 39.9514169,
+    "lon": -83.0001426,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "520",
+      "addr:postcode": "43215",
+      "addr:state": "OH",
+      "addr:street": "South Front Street",
+      "amenity": "restaurant",
+      "cuisine": "american",
+      "email": "eat@brickamericankitchen.com",
+      "level": "-1",
+      "name": "Brick An American Kitchen",
+      "phone": "+1-614-914-5558",
+      "website": "https://www.brickamericankitchen.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5658197077,
+    "lat": 40.0341279,
+    "lon": -83.0162653,
+    "tags": {
+      "amenity": "restaurant",
+      "brand": "Romeo's Pizza",
+      "cuisine": "pizza",
+      "name": "Romeo's Pizza",
+      "not:brand:wikidata": "Q191615"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5670523517,
+    "lat": 39.9630321,
+    "lon": -82.9815611,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "62",
+      "addr:postcode": "43215",
+      "addr:state": "OH",
+      "addr:street": "Parsons Avenue",
+      "amenity": "restaurant",
+      "cuisine": "mexican",
+      "diet:vegetarian": "yes",
+      "name": "The Olde Oak",
+      "opening_hours": "Su-Th 16:00-24:00; Fr-Sa 16:00-02:00",
+      "outdoor_seating": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5688555114,
+    "lat": 39.9600429,
+    "lon": -82.9982737,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "65",
+      "addr:postcode": "43215",
+      "addr:state": "OH",
+      "addr:street": "East State Street",
+      "amenity": "restaurant",
+      "contact:facebook": "https://www.facebook.com/marketsixtyfive/",
+      "contact:instagram": "https://www.instagram.com/market65/",
+      "name": "Market 65",
+      "opening_hours": "Mo-Fr 10:30-19:30",
+      "outdoor_seating": "yes",
+      "phone": "+1-614-564-6565",
+      "website": "https://www.marketsixtyfive.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5731326875,
+    "lat": 39.9965539,
+    "lon": -83.0138394,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Traditions at Kennedy",
+      "opening_hours": "Mo-Fr 07:00-23:00,11:00-15:00,04:00-20:00, Sa,Su 09:00-15:00,04:00-20:00, Su-Th 20:00-22:00"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5731326876,
+    "lat": 39.9999777,
+    "lon": -83.0221417,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Traditions at Morrill",
+      "opening_hours": "Mo-Fr 07:00-15:00, Su-Th 16:00-20:30, Fr,Sa 16:00-20:00, Sa,Su 09:00-15:00"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5763303216,
+    "lat": 39.9922072,
+    "lon": -83.0371286,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "1145",
+      "addr:postcode": "43212",
+      "addr:state": "OH",
+      "addr:street": "Chesapeake Avenue",
+      "addr:unit": "Suite D",
+      "amenity": "restaurant",
+      "name": "Watershed Distillery - Kitchen & Bar",
+      "opening_hours": "Tu-Sa 16:00-22:00; Fr,Sa 16:00-23:00",
+      "phone": "+1-614-357-1936",
+      "website": "https://www.watersheddistillery.com/kitchen---bar.html"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5814495577,
+    "lat": 39.9576148,
+    "lon": -83.0000594,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "219",
+      "addr:postcode": "43215",
+      "addr:state": "OH",
+      "addr:street": "South High Street",
+      "amenity": "restaurant",
+      "name": "The Goat at RiverSouth",
+      "opening_hours": "Su-We 07:00-20:00; Th 07:00-24:00; Fr-Sa 07:00-02:30",
+      "phone": "+1-614-779-0830",
+      "website": "https://www.lcgoat.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5836774394,
+    "lat": 39.961666,
+    "lon": -83.0021288,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "37",
+      "addr:postcode": "43215",
+      "addr:state": "OH",
+      "addr:street": "West Broad Street",
+      "amenity": "restaurant",
+      "delivery": "yes",
+      "level": "-1",
+      "name": "Danny's Deli",
+      "opening_hours": "Mo-Fr 07:00-15:00",
+      "phone": "+1-614-469-7040",
+      "website": "http://dannysdeli.net/columbusOhio/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5925747586,
+    "lat": 39.9682396,
+    "lon": -83.0068498,
+    "tags": {
+      "amenity": "restaurant",
+      "brand": "Ted's Montana Grill",
+      "brand:wikidata": "Q16953170",
+      "cuisine": "american",
+      "name": "Ted's Montana Grill"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5925770586,
+    "lat": 39.9682158,
+    "lon": -83.0070546,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "american;pizza",
+      "name": "Boston’s Restaurant & Sportsbar"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5925771185,
+    "lat": 39.9869128,
+    "lon": -83.0047422,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "21",
+      "addr:postcode": "43201",
+      "addr:state": "OH",
+      "addr:street": "East Fifth Avenue",
+      "addr:unit": "101",
+      "amenity": "restaurant",
+      "contact:email": "info@plasfoodanddrink.com",
+      "contact:facebook": "https://www.facebook.com/plasfoodanddrink",
+      "contact:instagram": "thetablecmh",
+      "name": "['plas] - Food and Drink",
+      "opening_hours": "Tu-Fr 16:00-24:00; Sa 17:00-24:00",
+      "phone": "+1-614-725-5700",
+      "website": "https://plasfoodanddrink.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5951890087,
+    "lat": 39.9853067,
+    "lon": -83.0049145,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "1124",
+      "addr:postcode": "43201",
+      "addr:state": "OH",
+      "addr:street": "North High Street",
+      "amenity": "restaurant",
+      "contact:instagram": "bristolrepublic",
+      "cuisine": "barbecue",
+      "name": "Bristol Republic",
+      "opening_hours:covid19": "Th 16:00-23:00; Fr 16:00-01:00, Sa 10:00-02:00, Su 10:00-16:00",
+      "phone": "+1-614-929-5847",
+      "start_date": "2019-04",
+      "website": "https://www.bristolrepublic.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6003841685,
+    "lat": 40.0104552,
+    "lon": -83.010451,
+    "tags": {
+      "addr:housenumber": "2361",
+      "addr:street": "North High Street",
+      "amenity": "restaurant",
+      "name": "New Taj Mahal"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6018031319,
+    "lat": 39.983584,
+    "lon": -83.0012305,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "1022",
+      "addr:postcode": "43201",
+      "addr:state": "OH",
+      "addr:street": "Summit Street",
+      "amenity": "restaurant",
+      "contact:instagram": "themarket_iv",
+      "cuisine": "pizza;coffee_shop;bistro",
+      "email": "info@themarketiv.com",
+      "name": "The Market Italian Village",
+      "opening_hours": "We-Sa 17:00-21:00; Su 12:00-16:00",
+      "outdoor_seating": "yes",
+      "phone": "+1-614-745-2147",
+      "website": "https://www.themarketiv.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6030643806,
+    "lat": 39.9515106,
+    "lon": -82.99464,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "525",
+      "addr:postcode": "43206",
+      "addr:state": "OH",
+      "addr:street": "South Fourth Street",
+      "amenity": "restaurant",
+      "cuisine": "tapas",
+      "name": "El Lugar",
+      "phone": "+1-614-670-7195"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6071147485,
+    "lat": 39.9848111,
+    "lon": -83.0047954,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "1100",
+      "addr:postcode": "43201",
+      "addr:state": "OH",
+      "addr:street": "North High Street",
+      "amenity": "restaurant",
+      "contact:facebook": "standardhall",
+      "contact:instagram": "standardhall",
+      "name": "Standard Hall",
+      "opening_hours": "Mo-Th 15:00-02:00, Fr-Su 11:00-02:00",
+      "phone": "+1-614-381-1112",
+      "website": "https://standardhall.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6134012087,
+    "lat": 39.9806422,
+    "lon": -83.0044852,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "895",
+      "addr:postcode": "43201",
+      "addr:state": "OH",
+      "addr:street": "North High Street",
+      "amenity": "restaurant",
+      "contact:facebook": "TheRossiKitchenandBar",
+      "contact:instagram": "therossibarandkitchen",
+      "name": "The Rossi Bar & Kitchen",
+      "opening_hours": "Mo-Fr 16:00-22:00, Sa,Su 11:00-22:00",
+      "phone": "+1-614-525-0624",
+      "website": "https://rossikitchenandbar.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6137513185,
+    "lat": 39.9631749,
+    "lon": -82.997885,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Lexi’s on Third",
+      "opening_hours": "Mo-Fr 07:00-15:00"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6137558987,
+    "lat": 39.9635332,
+    "lon": -83.0001399,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "19",
+      "addr:postcode": "43215",
+      "addr:state": "OH",
+      "addr:street": "East Gay Street",
+      "amenity": "restaurant",
+      "contact:facebook": "https://www.facebook.com/TigerandLilyInspired",
+      "email": "hello@tigerandlilybistro.com",
+      "name": "Tiger + Lily",
+      "opening_hours": "Mo 12:00-15:00; Tu-Th 11:30-21:00; Fr 11:30-22:00; Sa 12:00-22:00; Su 12:00-15:00",
+      "phone": "+1-614-928-9989",
+      "website": "https://www.tigerandlilybistro.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6160285785,
+    "lat": 39.966116,
+    "lon": -83.0016371,
+    "tags": {
+      "addr:housenumber": "185",
+      "addr:street": "North High Street",
+      "amenity": "restaurant",
+      "name": "Haveli Bistro"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6185803886,
+    "lat": 39.9822767,
+    "lon": -83.0043169,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "976",
+      "addr:postcode": "43201",
+      "addr:state": "OH",
+      "addr:street": "North High Street",
+      "amenity": "restaurant",
+      "contact:facebook": "NidasTOH",
+      "cuisine": "thai",
+      "email": "thaionhigh@yahoo.com",
+      "level": "0",
+      "name": "Nida's Thai on High",
+      "opening_hours": "Mo-Th 11:30-14:00, 16:00-20:00; Fr 11:30-14:00, 16:00-21:00; Sa 15:00-21:00",
+      "phone": "+1-614-299-9199",
+      "website": "http://www.thaionhigh.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6262313885,
+    "lat": 39.9981662,
+    "lon": -83.0075179,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Apollo’s Greek Kitchen",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6268990085,
+    "lat": 39.968151,
+    "lon": -83.0055929,
+    "tags": {
+      "amenity": "restaurant",
+      "brand": "bd's Mongolian Grill",
+      "brand:website": "https://www.gomongo.com/",
+      "brand:wikidata": "Q69890408",
+      "cuisine": "mongolian_grill",
+      "fixme": "This location is not listed on the bd's website. Perhaps it is closed?",
+      "name": "bd's Mongolian Grill"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6308433213,
+    "lat": 40.0062802,
+    "lon": -83.0442433,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "1285",
+      "addr:postcode": "43221",
+      "addr:state": "OH",
+      "addr:street": "West Lane Avenue",
+      "amenity": "restaurant",
+      "cuisine": "asian;sushi",
+      "description": "Asian restaurant with a wide variety of choices ranging from Chinese, Tai, Japanese, and Sushi.",
+      "name": "Tai's Asian Bistro",
+      "opening_hours": "Mo-Sa 11:00-22:00, Su 11:00-21:30",
+      "outdoor_seating": "yes",
+      "phone": "+1-614-485-0016",
+      "takeaway": "yes",
+      "website": "https://taisbistroohio.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6311915585,
+    "lat": 39.9716804,
+    "lon": -83.002729,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "457",
+      "addr:postcode": "43215",
+      "addr:state": "OH",
+      "addr:street": "North High Street",
+      "amenity": "restaurant",
+      "contact:facebook": "https://www.facebook.com/latenightslice",
+      "contact:instagram": "https://www.instagram.com/latenightslice/",
+      "contact:twitter": "https://twitter.com/LateNightSlice",
+      "cuisine": "pizza",
+      "diet:vegan": "yes",
+      "name": "Mikey’s Late Night Slice",
+      "opening_hours": "Su-Th 11:00-03:00, Fr,Sa 11:00-04:00",
+      "website": "https://www.latenightslice.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6324848182,
+    "lat": 39.9472434,
+    "lon": -82.9952219,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "739",
+      "addr:postcode": "43206",
+      "addr:state": "OH",
+      "addr:street": "South Third Street",
+      "amenity": "restaurant",
+      "contact:instagram": "eatchapmans",
+      "diet:dairy_free": "yes",
+      "diet:gluten_free": "yes",
+      "diet:vegan": "yes",
+      "diet:vegetarian": "yes",
+      "name": "Chapman's Eat Market",
+      "old_name": "Wunderbar",
+      "opening_hours": "Tu-Sa 17:00-21:00",
+      "phone": "+1-614-444-0917",
+      "website": "https://www.eatchapmans.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6324879994,
+    "lat": 39.9475193,
+    "lon": -82.997527,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "716",
+      "addr:postcode": "43206",
+      "addr:state": "OH",
+      "addr:street": "South High Street",
+      "amenity": "restaurant",
+      "contact:facebook": "https://www.facebook.com/Ambrose-Eve-223801588103672/",
+      "email": "vince.cameron@ambroseandeve.com",
+      "name": "Ambrose & Eve",
+      "opening_hours": "Mo,Su 11:00-15:00; Tu-Sa 11:00-15:00, 17:00-23:00",
+      "phone": "+1-614-725-2080",
+      "website": "http://ambroseandevecolumbus.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6324880001,
+    "lat": 39.9475982,
+    "lon": -82.9975412,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "714",
+      "addr:postcode": "43206",
+      "addr:state": "OH",
+      "addr:street": "South High Street",
+      "amenity": "restaurant",
+      "contact:instagram": "https://www.instagram.com/antiquesonhigh/",
+      "name": "Antiques on High",
+      "opening_hours": "Mo-Th 16:00-24:00; Fr 15:00-02:00, Sa 11:00-02:00, Su 11:00-24:00",
+      "phone": "+1-614-725-2070",
+      "website": "https://www.antiquesonhigh.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6324915597,
+    "lat": 39.9499612,
+    "lon": -82.9827244,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "677",
+      "addr:postcode": "43206",
+      "addr:state": "OH",
+      "addr:street": "Parsons Avenue",
+      "amenity": "restaurant",
+      "contact:facebook": "https://www.facebook.com/ComuneRestaurant/",
+      "name": "Comune",
+      "opening_hours": "Mo-Th 11:00-15:00, 17:00-22:00; Fr 11:00-15:00, 17:00-23:00; Sa 17:00-23:00",
+      "phone": "+1-614-947-1012",
+      "website": "https://www.comune-restaurant.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6324938307,
+    "lat": 39.9996617,
+    "lon": -83.0618597,
+    "tags": {
+      "addr:city": "Upper Arlington",
+      "addr:housenumber": "2124",
+      "addr:postcode": "43221",
+      "addr:state": "OH",
+      "addr:street": "Arlington Avenue",
+      "amenity": "restaurant",
+      "contact:facebook": "https://www.facebook.com/lupoonarlington/",
+      "contact:instagram": "https://www.instagram.com/lupo_on_arlingtonave/",
+      "name": "Lupo on Arlington",
+      "opening_hours": "We,Th 17:00-21:00; Fr,Sa 17:00-22:30; Su 10:00-14:00, 17:00-21:00",
+      "phone": "+1-614-914-6134",
+      "website": "https://www.lupoonarlington.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6325176583,
+    "lat": 39.9633872,
+    "lon": -83.0001272,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "47",
+      "addr:postcode": "43215",
+      "addr:state": "OH",
+      "addr:street": "North Pearl Street",
+      "amenity": "restaurant",
+      "contact:facebook": "https://www.facebook.com/barroluco1",
+      "contact:instagram": "https://www.instagram.com/barroluco.argentine/",
+      "cuisine": "argentinian",
+      "name": "Barroluco",
+      "phone": "+1-614-450-0777",
+      "website": "https://www.barroluco.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6325176659,
+    "lat": 39.9632377,
+    "lon": -82.9992165,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "54",
+      "addr:postcode": "43215",
+      "addr:state": "OH",
+      "addr:street": "East Lynn Street",
+      "amenity": "restaurant",
+      "contact:facebook": "https://www.facebook.com/Jacks-Downtown-Diner-308315918037/",
+      "name": "Jacks Downtown Diner",
+      "not:brand:wikidata": "Q6110826",
+      "phone": "+1-614-224-3655"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6325176674,
+    "lat": 39.9573969,
+    "lon": -83.0030058,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "200",
+      "addr:postcode": "43215",
+      "addr:state": "OH",
+      "addr:street": "South Civic Center Drive",
+      "amenity": "restaurant",
+      "cuisine": "peruvian",
+      "name": "Sí Señor",
+      "opening_hours": "Mo-Fr 07:00-15:00",
+      "phone": "+1-614-228-2066",
+      "website": "https://www.sisenorcolumbus.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6325176675,
+    "lat": 39.9632695,
+    "lon": -82.9987948,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "72",
+      "addr:postcode": "43215",
+      "addr:state": "OH",
+      "addr:street": "East Lynn Street",
+      "amenity": "restaurant",
+      "cuisine": "peruvian",
+      "name": "Sí Señor",
+      "opening_hours": "Mo-Fr 11:00-15:00",
+      "phone": "+1-614-227-0070",
+      "website": "https://www.sisenorcolumbus.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6325176794,
+    "lat": 39.9636046,
+    "lon": -82.9984092,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "45",
+      "addr:postcode": "43215",
+      "addr:state": "OH",
+      "addr:street": "North Third Street",
+      "amenity": "restaurant",
+      "contact:facebook": "https://www.facebook.com/mitchellssteakhouse/",
+      "cuisine": "steak_house",
+      "name": "Mitchell's Steakhouse",
+      "phone": "+1-614-888-2467",
+      "website": "http://www.mitchellssteakhouse.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6325176920,
+    "lat": 39.9632228,
+    "lon": -83.0005724,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "40",
+      "addr:postcode": "43215",
+      "addr:state": "OH",
+      "addr:street": "North High Street",
+      "amenity": "restaurant",
+      "contact:facebook": "https://www.facebook.com/cafenapolitana",
+      "name": "Café Napolitana",
+      "phone": "+1-614-224-3013"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6344261885,
+    "lat": 39.9853905,
+    "lon": -83.0049305,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "1126",
+      "addr:postcode": "43201",
+      "addr:state": "OH",
+      "addr:street": "North High Street",
+      "amenity": "restaurant",
+      "cuisine": "sushi",
+      "name": "The 1126 Restaurant",
+      "opening_hours": "Su-Th 13:00-23:00; Fr,Sa 13:00-24:00",
+      "phone": "+1-614-725-3435",
+      "website": "https://the1126columbus.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6357738601,
+    "lat": 39.9856979,
+    "lon": -83.00487,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "1144",
+      "addr:postcode": "43201",
+      "addr:state": "OH",
+      "addr:street": "North High Street",
+      "amenity": "restaurant",
+      "cuisine": "american",
+      "diet:vegetarian": "limited",
+      "name": "Michael's Goody Boy Diner",
+      "opening_hours": "Th 15:00-02:00, Fr-Su 11:00-02:00",
+      "outdoor_seating": "yes",
+      "phone": "+1-614-400-2317",
+      "website": "https://shortnorthgoodyboy.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6376554785,
+    "lat": 39.9683728,
+    "lon": -83.0056093,
+    "tags": {
+      "addr:housenumber": "125",
+      "addr:postcode": "43215",
+      "addr:street": "West Nationwide Boulevard",
+      "amenity": "restaurant",
+      "cuisine": "brazilian",
+      "name": "Rodizio Grill"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6387125187,
+    "lat": 39.9821652,
+    "lon": -82.9985147,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "936",
+      "addr:postcode": "43201",
+      "addr:state": "OH",
+      "addr:street": "North Fourth Street",
+      "amenity": "restaurant",
+      "contact:facebook": "https://www.facebook.com/goremadepizza/",
+      "contact:instagram": "https://www.instagram.com/goremadepizza/",
+      "cuisine": "pizza",
+      "name": "GoreMade Pizza",
+      "opening_hours": "Tu-Th 11:00-22:00; Fr,Sa 11:00-23:00; Su 11:00-21:00",
+      "phone": "+1-614-725-2115",
+      "website": "http://www.goremadepizza.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6400935794,
+    "lat": 39.9859665,
+    "lon": -83.0445216,
+    "tags": {
+      "addr:housenumber": "1386",
+      "addr:street": "Grandview Avenue",
+      "amenity": "restaurant",
+      "name": "Yats"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6400968285,
+    "lat": 39.9885321,
+    "lon": -83.0324716,
+    "tags": {
+      "addr:housenumber": "974",
+      "addr:street": "West Fifth Avenue",
+      "amenity": "restaurant",
+      "name": "Oshio",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6475635351,
+    "lat": 39.9767291,
+    "lon": -83.0037564,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "705",
+      "addr:postcode": "43215",
+      "addr:state": "OH",
+      "addr:street": "North High Street",
+      "amenity": "restaurant",
+      "cuisine": "seafood;american",
+      "name": "Del Mar SoCal Kitchen",
+      "opening_hours": "Mo-Th 16:00-21:00; Fr 16:00-22:00; Sa 11:00-22:00; Su 11:00-20:00",
+      "phone": "+1-614-300-9500",
+      "website": "https://delmarcolumbus.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6505340551,
+    "lat": 39.9692481,
+    "lon": -83.0044893,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "343",
+      "addr:postcode": "43215",
+      "addr:state": "OH",
+      "addr:street": "North Front Street",
+      "amenity": "restaurant",
+      "brand": "Buca di Beppo",
+      "brand:wikidata": "Q4982340",
+      "cuisine": "italian",
+      "name": "Buca di Beppo",
+      "opening_hours": "Mo-Th 11:00-22:00; Fr,Sa 11:00-23:00; Su 11:00-21:00",
+      "phone": "+1-614-621-3287",
+      "website": "https://locations.bucadibeppo.com/us/oh/columbus/343-n-front-st"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6535756023,
+    "lat": 40.0043617,
+    "lon": -83.0109423,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "80",
+      "addr:postcode": "43210",
+      "addr:state": "OH",
+      "addr:street": "West Woodruff Avenue",
+      "amenity": "restaurant",
+      "check_date:opening_hours": "2025-01-07",
+      "name": "Curl Market",
+      "opening_hours": "Mo-Fr 10:30-22:00; Sa,Su 10:30-20:00",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6575812785,
+    "lat": 39.9837319,
+    "lon": -83.0046435,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "1044",
+      "addr:postcode": "43201",
+      "addr:state": "OH",
+      "addr:street": "North High Street",
+      "amenity": "restaurant",
+      "contact:instagram": "columbusbodega",
+      "contact:twitter": "ColumbusBodega",
+      "name": "Bodega",
+      "opening_hours": "Mo-Th 15:00-24:00; Fr 15:00-02:00, Sa 11:00-02:00, Su 11:00-21:00",
+      "phone": "+1-614-299-9399",
+      "website": "https://www.columbusbodega.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6654272095,
+    "lat": 39.9916125,
+    "lon": -83.006571,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "1437",
+      "addr:postcode": "43201",
+      "addr:state": "OH",
+      "addr:street": "North High Street",
+      "amenity": "restaurant",
+      "cuisine": "burger",
+      "diet:vegetarian": "yes",
+      "name": "Eden Burger",
+      "takeaway": "yes",
+      "toilets": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6667158377,
+    "lat": 40.0067153,
+    "lon": -83.0538742,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "SOW Plated"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6751461185,
+    "lat": 39.9468487,
+    "lon": -82.9979103,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Local Cantina"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6781043981,
+    "lat": 39.9833388,
+    "lon": -83.0045229,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "1026",
+      "addr:postcode": "43201",
+      "addr:state": "OH",
+      "addr:street": "North High Street",
+      "amenity": "restaurant",
+      "cuisine": "tapas",
+      "name": "Fireproof",
+      "opening_hours": "Tu,We 16:00-23:00; Th-Sa 16:00-24:00; Su 16:00-21:00",
+      "phone": "+1-614-706-4425",
+      "website": "https://fireproofcolumbus.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6781065808,
+    "lat": 39.9815653,
+    "lon": -83.004174,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "940",
+      "addr:postcode": "43201",
+      "addr:state": "OH",
+      "addr:street": "North High Street",
+      "amenity": "restaurant",
+      "contact:facebook": "ampersandasiansupperclub",
+      "contact:instagram": "ampersandasiansupperclub",
+      "cuisine": "asian",
+      "email": "info@ampersandasiansupperclub.com",
+      "level": "0",
+      "name": "Ampersand",
+      "opening_hours": "Mo-Sa 11:30-21:00",
+      "outdoor_seating": "yes",
+      "phone": "+1-614-928-3333",
+      "website": "http://ampersandasiansupperclub.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6786941385,
+    "lat": 40.025897,
+    "lon": -83.0141552,
+    "tags": {
+      "addr:housenumber": "3126",
+      "addr:street": "North High Street",
+      "amenity": "restaurant",
+      "name": "Local Cantina"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6818225090,
+    "lat": 39.9716517,
+    "lon": -83.0043877,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housename": "North Market",
+      "addr:housenumber": "59",
+      "addr:postcode": "43215",
+      "addr:state": "OH",
+      "addr:street": "Spruce Street",
+      "amenity": "restaurant",
+      "contact:facebook": "https://www.facebook.com/satoriramen/",
+      "cuisine": "ramen",
+      "email": "Info@SatoriRamenBar.com",
+      "level": "0",
+      "name": "Satori Ramen Bar",
+      "opening_hours": "Su,Mo 10:00-17:00; Tu-Sa 09:00-19:00",
+      "website": "https://www.satoriramenbar.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6818511590,
+    "lat": 39.9715837,
+    "lon": -83.0043675,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housename": "North Market",
+      "addr:housenumber": "59",
+      "addr:postcode": "43215",
+      "addr:state": "OH",
+      "addr:street": "Spruce Street",
+      "amenity": "restaurant",
+      "contact:facebook": "https://www.facebook.com/DosHermanosTacoTruck/",
+      "cuisine": "mexican",
+      "email": "doshermanostacotruck@gmail.com",
+      "level": "0",
+      "name": "Dos Hermanos",
+      "opening_hours": "Su,Mo 10:00-17:00; Tu-Sa 09:00-19:00",
+      "phone": "+1-614-670-4239",
+      "website": "https://doshermanoscolumbus.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6818511597,
+    "lat": 39.9718232,
+    "lon": -83.0044574,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housename": "North Market",
+      "addr:housenumber": "59",
+      "addr:postcode": "43215",
+      "addr:state": "OH",
+      "addr:street": "Spruce Street",
+      "amenity": "restaurant",
+      "contact:facebook": "https://www.facebook.com/FlavorsofIndiaColumbus/",
+      "cuisine": "indian",
+      "level": "0",
+      "name": "Flavors of India",
+      "opening_hours": "Su,Mo 10:00-17:00; Tu-Sa 09:00-19:00",
+      "phone": "+1-614-228-1955"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6818511598,
+    "lat": 39.9718797,
+    "lon": -83.0044547,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housename": "North Market",
+      "addr:housenumber": "59",
+      "addr:postcode": "43215",
+      "addr:state": "OH",
+      "addr:street": "Spruce Street",
+      "amenity": "restaurant",
+      "contact:facebook": "https://www.facebook.com/marketboar/",
+      "cuisine": "barbecue",
+      "level": "0",
+      "name": "Market & Boar",
+      "opening_hours": "Su,Mo 10:00-17:00; Tu-Sa 09:00-19:00",
+      "phone": "+1-614-471-8844",
+      "website": "https://barrelboar.com/north-market/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6818511599,
+    "lat": 39.9719896,
+    "lon": -83.0044446,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housename": "North Market",
+      "addr:housenumber": "59",
+      "addr:postcode": "43215",
+      "addr:state": "OH",
+      "addr:street": "Spruce Street",
+      "amenity": "restaurant",
+      "email": "carolyn@pastarianorthmarket.com",
+      "level": "0",
+      "name": "Pastaria",
+      "opening_hours": "Su,Mo 10:00-17:00; Tu-Sa 09:00-19:00",
+      "phone": "+1-614-228-2850",
+      "website": "https://www.pastarianorthmarket.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6818511601,
+    "lat": 39.9721001,
+    "lon": -83.0044426,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housename": "North Market",
+      "addr:housenumber": "59",
+      "addr:postcode": "43215",
+      "addr:state": "OH",
+      "addr:street": "Spruce Street",
+      "amenity": "restaurant",
+      "contact:facebook": "https://www.facebook.com/momogharohio/",
+      "level": "0",
+      "name": "Momo Ghar",
+      "opening_hours": "Su,Mo 10:00-17:00; Tu-Sa 09:00-19:00",
+      "phone": "+1-614-749-2901"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6818511602,
+    "lat": 39.9721469,
+    "lon": -83.0044386,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housename": "North Market",
+      "addr:housenumber": "59",
+      "addr:postcode": "43215",
+      "addr:state": "OH",
+      "addr:street": "Spruce Street",
+      "amenity": "restaurant",
+      "cuisine": "vietnamese",
+      "level": "0",
+      "name": "Lan Viet Market",
+      "opening_hours": "Su,Mo 10:00-17:00; Tu-Sa 09:00-19:00",
+      "phone": "+1-614-227-4203"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6818511604,
+    "lat": 39.9721228,
+    "lon": -83.0043642,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housename": "North Market",
+      "addr:housenumber": "59",
+      "addr:postcode": "43215",
+      "addr:state": "OH",
+      "addr:street": "Spruce Street",
+      "amenity": "restaurant",
+      "cuisine": "sushi",
+      "level": "0",
+      "name": "Nida's Sushi",
+      "opening_hours": "Su,Mo 10:00-17:00; Tu-Sa 09:00-19:00"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6818511605,
+    "lat": 39.9721197,
+    "lon": -83.0042716,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housename": "North Market",
+      "addr:housenumber": "59",
+      "addr:postcode": "43215",
+      "addr:state": "OH",
+      "addr:street": "Spruce Street",
+      "amenity": "restaurant",
+      "cuisine": "polish",
+      "level": "0",
+      "name": "Hubert's Polish Kitchen",
+      "opening_hours": "Su,Mo 10:00-17:00; Tu-Sa 09:00-19:00",
+      "phone": "+1-614-220-8787"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6818511607,
+    "lat": 39.9720498,
+    "lon": -83.004273,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housename": "North Market",
+      "addr:housenumber": "59",
+      "addr:postcode": "43215",
+      "addr:state": "OH",
+      "addr:street": "Spruce Street",
+      "amenity": "restaurant",
+      "contact:facebook": "https://www.facebook.com/Hoyos-Kitchen-524823124320826/",
+      "contact:instagram": "https://www.instagram.com/hoyoskitchen/",
+      "cuisine": "somali",
+      "level": "0",
+      "name": "Hoyo's Kitchen",
+      "opening_hours": "Su,Mo 10:00-17:00; Tu-Sa 09:00-19:00",
+      "phone": "+1-614-745-3943"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6818511616,
+    "lat": 39.9721459,
+    "lon": -83.0041912,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housename": "North Market",
+      "addr:housenumber": "59",
+      "addr:postcode": "43215",
+      "addr:state": "OH",
+      "addr:street": "Spruce Street",
+      "amenity": "restaurant",
+      "cuisine": "mediterranean",
+      "level": "0",
+      "name": "Firdous Express",
+      "opening_hours": "Su,Mo 10:00-17:00; Tu-Sa 09:00-19:00",
+      "phone": "+1-614-221-4444"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6828668785,
+    "lat": 39.9747012,
+    "lon": -82.997682,
+    "tags": {
+      "addr:postcode": "43215",
+      "amenity": "restaurant",
+      "name": "Juniper",
+      "opening_hours": "Tu-Th 17:00-22:30; Fr 17:00-24:00; Su 17:00-24:00",
+      "phone": "+1-614-464-3333"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6865200785,
+    "lat": 39.9810297,
+    "lon": -83.0040707,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "906",
+      "addr:postcode": "43201",
+      "addr:state": "OH",
+      "addr:street": "North High Street",
+      "amenity": "restaurant",
+      "contact:instagram": "johnboycbus",
+      "email": "columbus@goodnightjb.com",
+      "level": "0",
+      "name": "Good Night John Boy",
+      "opening_hours": "Th-Fr 16:00-24:00; Sa,Su 11:00-24:00",
+      "phone": "+1-614-502-0020",
+      "website": "https://goodnightjb.com/columbus"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6964125787,
+    "lat": 39.9565627,
+    "lon": -83.040894,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "chinese",
+      "name": "Peking Wok"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6964139857,
+    "lat": 39.9633702,
+    "lon": -83.001156,
+    "tags": {
+      "amenity": "restaurant",
+      "fixme": "tagging",
+      "name": "Veritas",
+      "opening_hours": "Mo-Fr 07:00-16:00; Sa 09:00-16:00; Su closed"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6964162260,
+    "lat": 39.9630127,
+    "lon": -82.9982222,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "pizza",
+      "delivery": "yes",
+      "entrance": "yes",
+      "name": "Oh Pizza & Brew",
+      "opening_hours": "Mo-Su 00:00-02:00,11:00-24:00",
+      "phone": "+1 614 940 8687",
+      "takeaway": "yes",
+      "website": "https://www.ohpizzabrew.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6964162263,
+    "lat": 39.9634701,
+    "lon": -82.9979529,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Latitude 41"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6964162269,
+    "lat": 39.9683078,
+    "lon": -83.0060541,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "155",
+      "addr:postcode": "43215",
+      "addr:state": "OH",
+      "addr:street": "West Nationwide Boulevard",
+      "addr:unit": "175A",
+      "amenity": "restaurant",
+      "cuisine": "peruvian",
+      "name": "Sí Señor! Peruvian Sandwiches",
+      "website": "https://www.sisenor-columbus.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6981971286,
+    "lat": 39.9628906,
+    "lon": -82.9999888,
+    "tags": {
+      "addr:housenumber": "19",
+      "addr:street": "North Pearl Street",
+      "amenity": "restaurant",
+      "name": "Ringside Cafe",
+      "opening_hours": "Mo-Fr 11:00-21:00; Sa 16:00-21:00"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7125069385,
+    "lat": 40.0332651,
+    "lon": -83.0165241,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "breakfast",
+      "name": "Katalina’s"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7158609211,
+    "lat": 39.9713848,
+    "lon": -83.0033686,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "37",
+      "addr:postcode": "43215",
+      "addr:state": "OH",
+      "addr:street": "Vine Street",
+      "amenity": "restaurant",
+      "cuisine": "sushi",
+      "name": "Kooma Sushi",
+      "opening_hours": "Tu-Th 11:00-13:30, 17:00-21:30; Fr 11:00-13:30, 17:00-22:30; Sa 17:00-22:30",
+      "phone": "+1-614-224-3239",
+      "website": "https://www.koomacolumbus.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7160188875,
+    "lat": 39.9812708,
+    "lon": -83.004131,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "920",
+      "addr:postcode": "43201",
+      "addr:state": "OH",
+      "addr:street": "North High Street",
+      "amenity": "restaurant",
+      "brand": "Donatos Pizza",
+      "brand:wikidata": "Q1240741",
+      "cuisine": "pizza",
+      "name": "Donatos Pizza",
+      "opening_hours": "Su-Th 11:00-24:00; Fr,Sa 11:00-01:30",
+      "phone": "+1-614-421-5100",
+      "takeaway": "yes",
+      "website": "https://www.donatos.com/locations/short-north-first-and-high"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7255165381,
+    "lat": 39.9710441,
+    "lon": -83.0046608,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "421",
+      "addr:postcode": "43215",
+      "addr:state": "OH",
+      "addr:street": "North Front Street",
+      "amenity": "restaurant",
+      "bar": "yes",
+      "contact:facebook": "https://www.facebook.com/thehalfpintcolumbus/",
+      "contact:instagram": "https://www.instagram.com/TheHalfPintColumbus/",
+      "cuisine": "american",
+      "name": "The Half Pint",
+      "opening_hours": "Mo 11:00-21:00; Tu-Th 11:00-23:00; Fr,Sa 11:00-24:00; Su 10:00-21:00",
+      "outdoor_seating": "yes",
+      "phone": "+1-614-745-1165",
+      "website": "https://www.halfpintohio.com/columbus-ohio/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7257592608,
+    "lat": 39.9699012,
+    "lon": -83.0044207,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "401",
+      "addr:postcode": "43215",
+      "addr:state": "OH",
+      "addr:street": "North Front Street",
+      "amenity": "restaurant",
+      "brewery": "yes",
+      "contact:facebook": "https://www.facebook.com/GBColumbus/",
+      "cuisine": "american",
+      "diet:vegan": "yes",
+      "name": "Gordon Biersch",
+      "opening_hours": "Su-Th 11:00-22:00; Fr,Sa 11:00-23:00",
+      "phone": "+1-614-246-2900",
+      "website": "https://gordonbiersch.com/l"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7257592611,
+    "lat": 39.9697183,
+    "lon": -83.0041552,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "401",
+      "addr:postcode": "43215",
+      "addr:state": "OH",
+      "addr:street": "North Front Street",
+      "amenity": "restaurant",
+      "contact:instagram": "https://www.instagram.com/veranicokitchen/",
+      "diet:vegan": "yes",
+      "name": "Veranico",
+      "opening_hours": "Mo-Fr 10:30-19:30; Sa 11:00-02:30",
+      "phone": "+1-614-670-7423",
+      "website": "http://veranicocolumbus.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7280535209,
+    "lat": 39.9788244,
+    "lon": -83.0036609,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "800",
+      "addr:postcode": "43215",
+      "addr:state": "OH",
+      "addr:street": "North High Street",
+      "amenity": "restaurant",
+      "contact:facebook": "townhallornowhere",
+      "email": "info@townhallohiocity.com",
+      "name": "TownHall",
+      "outdoor_seating": "yes",
+      "phone": "+1 216-344-9400",
+      "start_date": "2020-03-09",
+      "website": "https://www.townhallohiocity.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7329100545,
+    "lat": 39.9700953,
+    "lon": -83.0001621,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "greek",
+      "name": "Mykonos Gyros"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7329100546,
+    "lat": 39.9701652,
+    "lon": -83.0002211,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "indian",
+      "name": "Fame's Diner and Indian Cuisine"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7329100547,
+    "lat": 39.969789,
+    "lon": -83.0003311,
+    "tags": {
+      "amenity": "restaurant",
+      "brand": "Donatos Pizza",
+      "brand:wikidata": "Q1240741",
+      "cuisine": "pizza",
+      "name": "Donatos Pizza",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7329100548,
+    "lat": 39.9698672,
+    "lon": -83.0004222,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "chinese",
+      "name": "Siam Express"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7329100553,
+    "lat": 39.9722208,
+    "lon": -83.001758,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Homegrown Market"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7329100554,
+    "lat": 39.9722393,
+    "lon": -83.001927,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "CBUS Tap Room"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7640625854,
+    "lat": 40.0038885,
+    "lon": -83.0086495,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "2040",
+      "addr:state": "OH",
+      "addr:street": "North High Street",
+      "amenity": "restaurant",
+      "brand": "IHOP",
+      "brand:wikidata": "Q1185675",
+      "cuisine": "breakfast;pancake",
+      "name": "IHOP",
+      "opening_hours": "24/7",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7894491033,
+    "lat": 39.9834987,
+    "lon": -82.9993567,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "995",
+      "addr:postcode": "43201",
+      "addr:state": "OH",
+      "addr:street": "North Fourth Street",
+      "amenity": "restaurant",
+      "bar": "yes",
+      "contact:facebook": "druncheatery",
+      "contact:instagram": "druncheatery",
+      "name": "Drunch Eatery",
+      "opening_hours": "Tu-Su 09:00-14:00",
+      "phone": "+1-614-420-2121",
+      "website": "https://www.druncheatery.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7899581199,
+    "lat": 39.9867258,
+    "lon": -83.0056699,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "1195",
+      "addr:postcode": "43201",
+      "addr:state": "OH",
+      "addr:street": "North High Street",
+      "amenity": "restaurant",
+      "name": "Paulie Gee's",
+      "opening_hours": "We-Su 16:00-21:00",
+      "phone": "+1-614-808-0112",
+      "website": "https://pauliegee.com/short-north/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8003927385,
+    "lat": 39.9879637,
+    "lon": -83.0316284,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Rye River Social"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8041842835,
+    "lat": 39.9880158,
+    "lon": -83.0058771,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "1259",
+      "addr:postcode": "43201",
+      "addr:state": "OH",
+      "addr:street": "North High Street",
+      "amenity": "restaurant",
+      "brand": "D.P. Dough",
+      "brand:wikidata": "Q22008973",
+      "cuisine": "calzone",
+      "name": "D.P. Dough",
+      "opening_hours": "Su-Th 11:00-03:00, Fr,Sa 11:00-04:00",
+      "phone": "+1-614-294-0440",
+      "website": "https://www.dpdough.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8251953117,
+    "lat": 39.9915852,
+    "lon": -83.0350222,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Texas Steele BBQ"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8343623182,
+    "lat": 39.9878178,
+    "lon": -83.00584,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "1247",
+      "addr:postcode": "43201",
+      "addr:state": "OH",
+      "addr:street": "North High Street",
+      "amenity": "restaurant",
+      "cuisine": "jamaican;caribbean;african;american;pasta;chicken;fried_chicken;curry;jerk;jerk_chicken;curry_goat",
+      "name": "Jerky's Jamaican Grill",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "phone": "+1-614-524-5375",
+      "website": "https://jerkyscolumbus.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8390827417,
+    "lat": 39.9850318,
+    "lon": -83.0390631,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Grandad’s Pizza"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8481471917,
+    "lat": 39.9669904,
+    "lon": -82.9823798,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "What the Waffle"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8481476717,
+    "lat": 39.9631484,
+    "lon": -82.9817927,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Hangover Easy"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8481484417,
+    "lat": 39.957716,
+    "lon": -82.9711763,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "1053",
+      "addr:postcode": "43205",
+      "addr:state": "OH",
+      "addr:street": "East Main Street",
+      "air_conditioning": "yes",
+      "amenity": "restaurant",
+      "cuisine": "sandwich;burger;chicken;american;fish_and_chips;drinks;coffee_shop;fries",
+      "delivery": "yes",
+      "name": "Feed Me! Sandwich Kings!",
+      "opening_hours": "Tu-Sa 12:00-20:00",
+      "phone": "+1-614-826-4483",
+      "website": "www.feedmesandwichkings.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8561182617,
+    "lat": 39.9932641,
+    "lon": -83.0421042,
+    "tags": {
+      "addr:housenumber": "1717",
+      "addr:street": "Northwest Boulevard",
+      "amenity": "restaurant",
+      "cuisine": "chicken;american",
+      "name": "The Crispy Coop",
+      "website": "https://thecrispycoop.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8590044317,
+    "lat": 39.9648817,
+    "lon": -82.9982149,
+    "tags": {
+      "addr:housenumber": "114",
+      "addr:street": "North Third Street",
+      "amenity": "restaurant",
+      "name": "Rishi Sushi Kitchen & Bar"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8720254017,
+    "lat": 39.9883567,
+    "lon": -83.040569,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "mexican;american",
+      "name": "2 Brothers Tacos",
+      "note": "Permanently Parked food truck"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8753443417,
+    "lat": 39.9856711,
+    "lon": -83.0444679,
+    "tags": {
+      "addr:housenumber": "1368",
+      "addr:street": "Grandview Avenue",
+      "amenity": "restaurant",
+      "cuisine": "italian",
+      "name": "Z Cucina di Spirito"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8755874289,
+    "lat": 40.0219913,
+    "lon": -83.0258193,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "3019",
+      "addr:postcode": "43202",
+      "addr:state": "OH",
+      "addr:street": "Olentangy River Road",
+      "amenity": "restaurant",
+      "brand": "Denny's",
+      "brand:wikidata": "Q1189695",
+      "check_date": "2024-08-20",
+      "cuisine": "american",
+      "name": "Denny's",
+      "opening_hours": "24/7",
+      "phone": "+1 614-647-7352",
+      "source": "official website",
+      "takeaway": "yes",
+      "website": "https://locations.dennys.com/OH/COLUMBUS/248829"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8755874290,
+    "lat": 40.0215622,
+    "lon": -83.025675,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "2995",
+      "addr:postcode": "43202",
+      "addr:state": "OH",
+      "addr:street": "Olentangy River Road",
+      "amenity": "restaurant",
+      "branch": "Olentangy",
+      "brand": "Skyline Chili",
+      "brand:wikidata": "Q151224",
+      "check_date": "2024-08-20",
+      "cuisine": "chili",
+      "drive_through": "yes",
+      "name": "Skyline Chili",
+      "opening_hours": "Mo-Su 10:30-21:00",
+      "phone": "+1 614-914-8434",
+      "source": "official website",
+      "takeaway": "yes",
+      "website": "https://www.skylinechili.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8755874293,
+    "lat": 40.021903,
+    "lon": -83.0257797,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "asian",
+      "name": "H.Y. Asian Cuisine&SuShi"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8866120818,
+    "lat": 39.9741704,
+    "lon": -83.0314826,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "1051",
+      "addr:postcode": "43212",
+      "addr:street": "Goodale Boulevard",
+      "amenity": "restaurant",
+      "cuisine": "american",
+      "name": "High Bank Distillery",
+      "opening_hours": "Mo-Th 11:00-21:00; Fr 11:00-22:00; Sa 10:00-22:00; Su 10:00-15:00",
+      "website": "https://www.highbankco.com/grandview"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8866142317,
+    "lat": 39.9469583,
+    "lon": -82.9974688,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Emmett’s Cafe"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8898210596,
+    "lat": 39.9511319,
+    "lon": -82.9827272,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "coffee_shop;sandwich;smoothie",
+      "diet:meat": "yes",
+      "diet:vegan": "yes",
+      "diet:vegetarian": "yes",
+      "name": "Alchemy Cafe"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9044699962,
+    "lat": 40.0084735,
+    "lon": -83.0003089,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "mexican",
+      "name": "Crunchwerks"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9069046555,
+    "lat": 39.9953266,
+    "lon": -83.0016351,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "201",
+      "addr:postcode": "43201",
+      "addr:state": "OH",
+      "addr:street": "Chittenden Avenue",
+      "amenity": "restaurant",
+      "cuisine": "mexican",
+      "name": "Boom Boom Tacos, Tequila & Mezcal",
+      "opening_hours": "Su-We 16:00-00:00; Th-Sa 16:00-02:00",
+      "phone": "+1 614 670 7849",
+      "website": "https://www.boomboomtacostequilamezcal.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9072352335,
+    "lat": 39.9868556,
+    "lon": -83.0028881,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "pizza",
+      "name": "DiCarlo's Original Pizza"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9442733624,
+    "lat": 39.951336,
+    "lon": -83.0005872,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Bandit Pizza & Pairings by Rockmill"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9509426803,
+    "lat": 40.0004048,
+    "lon": -83.0076971,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "10",
+      "addr:postcode": "43201",
+      "addr:state": "OH",
+      "addr:street": "East Fifteenth Avenue",
+      "amenity": "restaurant",
+      "drive_through": "no",
+      "name": "Roots Natural Kitchen",
+      "opening_hours": "Mo-Fr 10:30-21:30; Sa,Su 11:00-21:30"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9509426804,
+    "lat": 40.000474,
+    "lon": -83.0078918,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "mexican",
+      "name": "Barrio",
+      "opening_hours": "Su 11:30-24:00, Sa 11:30-01:00, Mo-Th 15:00-24:00, Fr 15:00-01:00",
+      "website": "https://barrio-tacos.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9509426806,
+    "lat": 40.0010183,
+    "lon": -83.0077596,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "12",
+      "addr:state": "OH",
+      "addr:street": "East Sixteenth Avenue",
+      "amenity": "restaurant",
+      "name": "Shawerma Bite"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9886085447,
+    "lat": 39.9700242,
+    "lon": -83.004516,
+    "tags": {
+      "addr:housenumber": "401",
+      "addr:street": "North Front Street",
+      "amenity": "restaurant",
+      "cuisine": "american",
+      "name": "Goodwoods",
+      "outdoor_seating": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10058394785,
+    "lat": 39.9959151,
+    "lon": -83.0070781,
+    "tags": {
+      "addr:housenumber": "1644",
+      "addr:street": "North High Street",
+      "amenity": "restaurant",
+      "cuisine": "mexican",
+      "name": "Plaza Mexican Grill",
+      "opening_hours": "Mo-Th 15:00-23:00; Fr,Sa 12:00-24:00"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10661699906,
+    "lat": 39.9902844,
+    "lon": -83.0129271,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Pelino’s Pasta",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10712799805,
+    "lat": 39.9512729,
+    "lon": -82.9826812,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "The Mercury Diner"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10752080405,
+    "lat": 39.9761922,
+    "lon": -83.0031709,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Pie of the Tiger"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10759772005,
+    "lat": 39.9641352,
+    "lon": -83.001287,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Speck Italian Eatery"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10913185905,
+    "lat": 39.990291,
+    "lon": -82.9870468,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Red Rabbit Ramen"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11081599305,
+    "lat": 39.9771015,
+    "lon": -83.0025397,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Hiraeth"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11150433095,
+    "lat": 40.0004319,
+    "lon": -83.0074544,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:state": "OH",
+      "addr:street": "East 15th Avenue",
+      "amenity": "restaurant",
+      "brand": "Genghis Grill",
+      "brand:wikidata": "Q29470710",
+      "cuisine": "mongolian_grill",
+      "name": "Genghis Grill",
+      "website": "https://locations.genghisgrill.com/oh/columbus/genghis-grill-1401.html"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11170890346,
+    "lat": 39.9930193,
+    "lon": -83.0064388,
+    "tags": {
+      "addr:housenumber": "1502",
+      "addr:street": "North High Street",
+      "amenity": "restaurant",
+      "cuisine": "frozen_yogurt",
+      "name": "Yoshi",
+      "website": "https://www.yoshiyum.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11196587030,
+    "lat": 39.9905851,
+    "lon": -83.0060231,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "1382",
+      "addr:postcode": "43201",
+      "addr:state": "OH",
+      "addr:street": "North High Street",
+      "amenity": "restaurant",
+      "brand": "Pizza Hut",
+      "brand:wikidata": "Q191615",
+      "cuisine": "pizza",
+      "name": "Pizza Hut",
+      "phone": "+1 614 484 0089",
+      "website": "https://pizzahut.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11207642081,
+    "lat": 40.0333291,
+    "lon": -83.0162298,
+    "tags": {
+      "addr:street": "3496 N High St",
+      "amenity": "restaurant",
+      "diet:vegan": "only",
+      "name": "Seitan's Realm",
+      "opening_hours": "We-Fr 11:00-20:00; Sa 09:00-20:00; Su 11:00-18:00",
+      "phone": "+1-614-634-2971",
+      "website": "https://www.seitansrealm.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11234239352,
+    "lat": 39.9936322,
+    "lon": -83.0417371,
+    "tags": {
+      "amenity": "restaurant",
+      "contact:instagram": "https://www.instagram.com/vidasbutcher/",
+      "diet:vegan": "yes",
+      "name": "Vida's Plant Based Butcher",
+      "phone": "+16149471117",
+      "website": "https://www.vidasbutcher.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11392722262,
+    "lat": 40.0029254,
+    "lon": -82.9979442,
+    "tags": {
+      "amenity": "restaurant",
+      "brand": "Toppers Pizza",
+      "cuisine": "chicken;pasta;pizza;sandwich",
+      "name": "King's",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11396358319,
+    "lat": 39.9935894,
+    "lon": -82.9821122,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "1393",
+      "addr:postcode": "43211",
+      "addr:state": "OH",
+      "addr:street": "Cleveland Avenue",
+      "amenity": "restaurant",
+      "cuisine": "american;1",
+      "name": "Big Mal's Linden Cafe"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11420893082,
+    "lat": 39.9590341,
+    "lon": -82.9997822,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "150",
+      "addr:postcode": "43215",
+      "addr:state": "OH",
+      "addr:street": "South High Street",
+      "amenity": "restaurant",
+      "cuisine": "italian",
+      "name": "Spaghetti Warehouse",
+      "opening_hours": "Su-Th 11:00-21:00; Fr-Sa 11:00-22:00",
+      "website": "https://spaghettiwarehouse.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11490175390,
+    "lat": 39.9677829,
+    "lon": -82.9987553,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "japanese",
+      "name": "Mr. Hibachi Downtown"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11765233685,
+    "lat": 40.0149877,
+    "lon": -83.0005061,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Clutch Handheld Breakfast"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11801127454,
+    "lat": 39.9593328,
+    "lon": -83.0086787,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Little West Tavern"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11832165016,
+    "lat": 39.9860693,
+    "lon": -82.9996338,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Habibi Grill"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11832165019,
+    "lat": 39.9852376,
+    "lon": -82.9990039,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "asian",
+      "name": "Boni Filipino Street Food",
+      "website": "https://www.facebook.com/bonifilipino/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11832165020,
+    "lat": 39.9852972,
+    "lon": -82.998547,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Modern Southern Table"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11832165021,
+    "lat": 39.9851603,
+    "lon": -82.9986329,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "pizza",
+      "name": "Borgata Pizza"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11832165024,
+    "lat": 39.9852685,
+    "lon": -82.998779,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "seafood",
+      "name": "Cousins Maine Lobster"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11832165025,
+    "lat": 39.985285,
+    "lon": -82.9986608,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "mediterranean",
+      "name": "Zaki Mediterranean Grill",
+      "opening_hours": "Tu,We 16:00-21:00; Th,Su 14:00-21:00; Fr,Sa 14:00-24:00",
+      "website": "https://zakisgrill.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11832165030,
+    "lat": 39.9851496,
+    "lon": -82.9987548,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "poke; korean",
+      "name": "Pokebap",
+      "opening_hours": "Tu,We 16:00-21:30; Th 11:00-21:30; Fr,Sa 11:00-23:00; Su 11:00-21:00",
+      "website": "https://www.pokebap.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11907485271,
+    "lat": 39.9678923,
+    "lon": -82.9947467,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "225",
+      "addr:postcode": "43215",
+      "addr:state": "OH",
+      "addr:street": "Neilston Street",
+      "amenity": "restaurant",
+      "email": "booking@thekeecolumbus.com",
+      "facebook": "https://www.facebook.com/thekeecolumbus",
+      "instagram": "https://www.instagram.com/thekeecolumbus",
+      "name": "The Kee",
+      "opening_hours": "We-Fr 17:00-02:00; Sa 08:00-14:00,17:00-02:00; Su 08:00-14:00,17:00-1:30",
+      "phone": "+1-380-215-5500",
+      "website": "https://thekeecolumbus.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12015534397,
+    "lat": 39.9973371,
+    "lon": -83.0073454,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "1712",
+      "addr:state": "OH",
+      "addr:street": "North High Street",
+      "amenity": "restaurant",
+      "brand": "Waffle House",
+      "brand:wikidata": "Q1701206",
+      "cuisine": "american",
+      "indoor_seating": "no",
+      "name": "Waffle House",
+      "opening_hours": "24/7",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12015534399,
+    "lat": 39.9971544,
+    "lon": -83.0073166,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "1708",
+      "addr:state": "OH",
+      "addr:street": "North High Street",
+      "amenity": "restaurant",
+      "brand": "Blaze Pizza",
+      "brand:wikidata": "Q23016666",
+      "cuisine": "pizza",
+      "name": "Blaze Pizza",
+      "opening_hours": "Mo-We,Su 10:45-24:00; Th 10:45-02:00; Fr-Sa 10:45-04:00",
+      "phone": "+1 614-382-8160",
+      "website": "https://locations.blazepizza.com/oh/columbus/1708-n.-high-st."
+    }
+  },
+  {
+    "type": "node",
+    "id": 12047619269,
+    "lat": 39.9482,
+    "lon": -82.9975947,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Cobra"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12128520355,
+    "lat": 39.963747,
+    "lon": -83.0012248,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "seafood",
+      "name": "Hank's Lowcountry Seafood"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12128520356,
+    "lat": 39.9998562,
+    "lon": -83.0073243,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "1839",
+      "addr:state": "OH",
+      "addr:street": "North Pearl Street",
+      "amenity": "restaurant",
+      "bar": "yes",
+      "cuisine": "pizza",
+      "name": "Mikey's Late Night Slice"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12136601101,
+    "lat": 39.9524087,
+    "lon": -82.9909552,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Běndì Wok N’ Bar"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12214455392,
+    "lat": 39.985929,
+    "lon": -82.9840933,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "777",
+      "addr:postcode": "43201",
+      "addr:state": "OH",
+      "addr:street": "East 5th Avenue",
+      "amenity": "restaurant",
+      "cuisine": "chinese",
+      "diet:local": "yes",
+      "name": "Wang's Chinese Kitchen",
+      "opening_hours": "Mo-Sa 10:45-19:00",
+      "phone": "614-852-3025",
+      "website": "https://wangschinesekitchen.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12242463933,
+    "lat": 39.9725266,
+    "lon": -83.0397258,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "southern;soul_food",
+      "name": "Taesty's"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12242463934,
+    "lat": 39.9724213,
+    "lon": -83.03978,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "cuban;carribean",
+      "name": "Pablo's Havanna Cafe"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12242463935,
+    "lat": 39.9724554,
+    "lon": -83.0398902,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "korean",
+      "name": "Seoul Food"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12242463937,
+    "lat": 39.9725354,
+    "lon": -83.040136,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "vietnamese",
+      "name": "Common Rice"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12242463938,
+    "lat": 39.9727432,
+    "lon": -83.0400089,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "vietnamese",
+      "name": "Lan Viet"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12242488016,
+    "lat": 39.9726817,
+    "lon": -83.0439762,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "The Rail"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12245871968,
+    "lat": 39.9902876,
+    "lon": -83.0130556,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Alqueria"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12249822398,
+    "lat": 40.0045914,
+    "lon": -83.0166412,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Bistro 2110"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12356499201,
+    "lat": 39.9766321,
+    "lon": -83.0032338,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "The 698"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12441107656,
+    "lat": 39.9982125,
+    "lon": -83.01294,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "The Faculty Club"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12602912482,
+    "lat": 39.988853,
+    "lon": -83.0393655,
+    "tags": {
+      "amenity": "restaurant",
+      "brand": "Jet's Pizza",
+      "brand:wikidata": "Q16997713",
+      "cuisine": "pizza",
+      "name": "Jet's Pizza"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12608587149,
+    "lat": 39.9864604,
+    "lon": -83.0451329,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "sushi",
+      "name": "Sushi King"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12608587150,
+    "lat": 39.9868721,
+    "lon": -83.0449996,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "mexican",
+      "name": "Local Cantina"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12610203437,
+    "lat": 39.9871303,
+    "lon": -83.0447348,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "bowls;breakfast;brunch;smoothies",
+      "diet:gluten_free": "yes",
+      "diet:vegan": "yes",
+      "diet:vegetarian": "yes",
+      "name": "Alchemy"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12610203459,
+    "lat": 39.9853851,
+    "lon": -83.0444346,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "pizza",
+      "name": "Panzera's Pizza",
+      "opening_hours": "Tu-Th 16:00-22:00; Fr,Sa 16:00-23:00; Su 16:00-21:00"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12610203460,
+    "lat": 39.9841982,
+    "lon": -83.0449883,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "mexican",
+      "name": "Agave & Rye"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12610203464,
+    "lat": 39.9835249,
+    "lon": -83.0450478,
+    "tags": {
+      "addr:city": "Grandview Heights",
+      "addr:housenumber": "1265",
+      "addr:postcode": "43212",
+      "addr:state": "OH",
+      "addr:street": "Grandview Avenue",
+      "amenity": "restaurant",
+      "name": "Aubergine Dining Club",
+      "private": "members",
+      "website": "https://www.auberginediningclub.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12623561979,
+    "lat": 39.9918563,
+    "lon": -83.0269887,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "pizza",
+      "name": "Brenz Pizza Lennox"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12624077298,
+    "lat": 39.9891378,
+    "lon": -83.0453352,
+    "tags": {
+      "addr:city": "Columbus",
+      "addr:housenumber": "1456",
+      "addr:postcode": "43212",
+      "addr:state": "OH",
+      "addr:street": "West Fifth Avenue",
+      "amenity": "restaurant",
+      "building:part": "yes",
+      "cuisine": "peruvian",
+      "name": "Sí Señor",
+      "type": "multipolygon",
+      "website": "https://www.sisenorcolumbus.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12624136679,
+    "lat": 39.9852446,
+    "lon": -83.0404116,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Urban Gourmet"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12626669904,
+    "lat": 39.9822777,
+    "lon": -83.0494954,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "italian",
+      "name": "La Tavola"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12629562059,
+    "lat": 40.0058924,
+    "lon": -83.0085497,
+    "tags": {
+      "amenity": "restaurant",
+      "brand": "bb.q Chicken",
+      "brand:wikidata": "Q87716489",
+      "cuisine": "korean;chicken",
+      "name": "bb.q Chicken"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12629562060,
+    "lat": 40.005921,
+    "lon": -83.0087812,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "noodle",
+      "name": "I Love Noods"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12649035850,
+    "lat": 40.0101872,
+    "lon": -83.0098839,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "asian",
+      "name": "Shio Teriyaki"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12649086257,
+    "lat": 40.0155222,
+    "lon": -83.0112058,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "pizza",
+      "name": "Ledo's Pizza Co."
+    }
+  },
+  {
+    "type": "node",
+    "id": 12649086273,
+    "lat": 40.015877,
+    "lon": -83.0115578,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "indian",
+      "name": "Cinnamon Indian Grill"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12649093127,
+    "lat": 40.0148589,
+    "lon": -83.0103401,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Frenchi's Deli"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12651182020,
+    "lat": 40.0163435,
+    "lon": -83.0120171,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "sushi",
+      "name": "Sushi Time"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12655197125,
+    "lat": 40.0148865,
+    "lon": -83.0002895,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "asian",
+      "name": "Zhu Shi Fu Barbecue"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12667863414,
+    "lat": 39.979671,
+    "lon": -83.0342247,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "american",
+      "name": "Delaney's Diner"
+    }
+  }
+]
