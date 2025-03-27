@@ -1,4 +1,3 @@
-// src/components/LocationButton.js
 import React from 'react';
 
 function LocationButton({ onLocation }) {
@@ -13,15 +12,18 @@ function LocationButton({ onLocation }) {
                 },
                 (error) => {
                     console.error("Error getting location: ", error);
+                    alert("Unable to access your location. Please check browser permissions.");
                 }
             );
         } else {
-            console.error("Geolocation is not supported by this browser.");
+            alert("Geolocation is not supported by your browser.");
         }
     };
 
     return (
-        <button onClick={getLocation}>Get Location</button>
+        <button className="location-button" onClick={getLocation}>
+            📍 Get Location
+        </button>
     );
 }
 

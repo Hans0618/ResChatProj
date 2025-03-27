@@ -992,6 +992,7 @@
       "addr:street": "North High Street",
       "amenity": "restaurant",
       "name": "Diaspora",
+      "cuisine": "korean",
       "name:en": "Diaspora",
       "opening_hours": "Mo-Fr 11:30-21:00; Sa 13:00-21:00; Su 13:00-19:30",
       "phone": "+1 614-458-1141",

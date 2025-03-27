@@ -1,38 +1,148 @@
-.App {
-  text-align: center;
+/* Reset and layout */
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f3f4f6;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+#root {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+/* Full-sized card */
+.chat-container {
+  width: 100%;
+  max-width: 900px;
+  height: 90vh;
+  background-color: #ffffff;
+  border-radius: 16px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
   display: flex;
   flex-direction: column;
+  overflow: hidden;
+}
+
+/* Header */
+.chatbot-header {
+  font-size: 20px;
+  font-weight: 600;
+  padding: 16px;
+  background-color: #ffffff;
+  border-bottom: 1px solid #e5e7eb;
+  display: flex;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+  gap: 8px;
+}
+.chatbot-header::before {
+  content: "💬 🍽️";
+}
+
+/* Tabs */
+.chat-tabs {
+  display: flex;
+  gap: 12px;
+  padding: 0 16px;
+  margin-top: 4px;
+  margin-bottom: 8px;
+}
+.chat-tab {
+  padding: 6px 12px;
+  border-radius: 12px;
+  background-color: #e0e7ff;
+  font-size: 14px;
+  cursor: pointer;
+  transition: background 0.2s ease;
+}
+.chat-tab:hover {
+  background-color: #c7d2fe;
+}
+
+/* Location button */
+.location-button {
+  margin: 0 16px;
+  margin-bottom: 8px;
+  padding: 12px;
+  font-size: 14px;
+  background-color: #f3f4f6;
+  border: 1px solid #d1d5db;
+  border-radius: 8px;
+  cursor: pointer;
+  text-align: left;
+}
+.location-button:hover {
+  background-color: #e5e7eb;
+}
+
+/* Messages area */
+.chatbot-messages {
+  flex: 1;
+  padding: 20px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  background-color: #f9fafb;
+}
+
+/* Messages */
+.message {
+  padding: 14px 18px;
+  border-radius: 20px;
+  max-width: 70%;
+  word-break: break-word;
+  line-height: 1.6;
+  font-size: 15px;
+}
+
+/* Bot message - left side */
+.message.bot {
+  align-self: flex-start;
+  background-color: #e5e7eb;
+  color: #111827;
+}
+
+/* User message - right side */
+.message.user {
+  align-self: flex-end;
+  background-color: #3b82f6;
+  color: #ffffff;
+}
+
+/* Input section */
+.chatbot-input {
+  display: flex;
+  padding: 16px;
+  background-color: #ffffff;
+  border-top: 1px solid #e5e7eb;
+}
+
+.chatbot-input input {
+  flex: 1;
+  padding: 12px 16px;
+  border-radius: 25px;
+  border: 1px solid #d1d5db;
+  font-size: 15px;
+  background-color: #f3f4f6;
+  outline: none;
+}
+
+.chatbot-input button {
+  background-color: #3b82f6;
   color: white;
+  border: none;
+  padding: 0 18px;
+  margin-left: 12px;
+  border-radius: 25px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background 0.2s ease;
 }
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.chatbot-input button:hover {
+  background-color: #2563eb;
 }
